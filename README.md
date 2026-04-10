@@ -49,6 +49,11 @@ Machine breakdown distribution by factory
 Machine performance trends
 Equality score distribution across roles and locations
 
+![Dashboard](screenshots/dashboard.png)
+
+📁 Data Files
+- [Equality Analysis Excel](data/Equality_Table_Analysis.xlsx)
+
 💡 Key Learnings
 Handling real-world structured and semi-structured data
 Transforming raw data into meaningful insights
